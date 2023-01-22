@@ -47,3 +47,4 @@ src="https://img.shields.io/github/followers/thauanyuricarvalho?logo=github&styl
 </p>
 
 ![Thauan Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=thauanyuricarvalho&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thauanyuricarvalho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
