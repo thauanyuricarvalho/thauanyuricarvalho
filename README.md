@@ -1,7 +1,7 @@
 Thauan yuri
 ===========================
 
-Analista de banco de dados
+Analista de Banco de Dados
 -------------------------------
 
 I'm fascinated by how everything works, I like to understand how the world behaves. With this curiosity, I discovered that Technology can help me to reach new horizons and acquire new knowledge from an early age in the area. I currently work as a Fiber Optic Technician providing maintenance services, technical visits and installations at Claro Brasil.
